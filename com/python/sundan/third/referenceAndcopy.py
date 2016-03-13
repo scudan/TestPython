@@ -15,4 +15,6 @@ print(d)
 
 e = [1,2,[3,4]]
 f = copy.deepcopy(e)
-c[2][0] = -1000
+f[2][0] = -1000
+print("e:") # e 不会有变化
+print(e)
