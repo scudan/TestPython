@@ -3,14 +3,7 @@
   <component name="ChangeListManager">
     <list id="f3a38920-1d90-42a1-b482-05b428e5a231" name="Default" comment="ss" />
     <list default="true" id="83a8bd05-1e28-4d2d-b5be-fa5a7c374ffc" name="Failed commit: Default" comment="zz&#10;&#10;zzz&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/python/sundan/six/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/python/sundan/six/foo.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/python/sundan/six/funObjectAndBibao.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/python/sundan/six/func.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/python/sundan/six/列表包含" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/python/sundan/six/生成器.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/python/sundan/six/装饰器.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/com/python/sundan/six/列表包含" afterPath="$PROJECT_DIR$/com/python/sundan/six/列表包含.py" />
     </list>
     <ignored path="TestPython.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,8 +34,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="列表包含" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/com/python/sundan/six/列表包含">
+      <file leaf-file-name="列表包含.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/com/python/sundan/six/列表包含.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.58536583">
               <caret line="76" column="14" selection-start-line="76" selection-start-column="14" selection-end-line="76" selection-end-column="14" />
@@ -365,7 +358,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="TestPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/python/sundan/six/列表包含" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/python/sundan/six/列表包含.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -592,7 +585,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32659933" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277592" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4006734" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4006734" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24939467" sideWeight="0.48021108" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277592" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292978" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -994,7 +987,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/com/python/sundan/six/列表包含">
+    <entry file="file://$PROJECT_DIR$/com/python/sundan/six/列表包含.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.58536583">
           <caret line="76" column="14" selection-start-line="76" selection-start-column="14" selection-end-line="76" selection-end-column="14" />
