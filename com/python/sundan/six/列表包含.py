@@ -80,4 +80,22 @@ def docfunction():
 
 cc = docfunction()
 
+def wrapss(func):
+    def calls(*ar, **kwa):
+         return func(*ar, **kwa)
+    calls.__doc__ = func.__doc__
+    calls.__name__ = func.__name__
+    calls.__dict__ .update(func.__dict__)
+    return calls
+
+
+
+#固定函数: eval(), exec(), compile()
+#eval (str [, globals [,locals]]) 函数执行一个表达式字符串 并返回
+a = eval('3*math.sin(3.5+x) + 7.2')
+
+b = [3,5,10,23]
+
+exec("for i in b: print(i)")
+
 
