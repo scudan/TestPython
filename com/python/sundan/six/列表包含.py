@@ -90,7 +90,7 @@ def wrapss(func):
 
 
 
-#固定函数: eval(), exec(), compile()
+#固定函数: eval(), exception(), compile()
 #eval (str [, globals [,locals]]) 函数执行一个表达式字符串 并返回
 a = eval('3*math.sin(3.5+x) + 7.2')
 
