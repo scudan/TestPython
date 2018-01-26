@@ -11,7 +11,7 @@ print(z);
 z.remove('b');
 print(z);
 
-for item in  set('abc'):
+for item in set('abc'):
     print(item * 3);
 
 # 新定义一个集合
