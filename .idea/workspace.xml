@@ -2,48 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list id="f3a38920-1d90-42a1-b482-05b428e5a231" name="Default" comment="ss" />
-    <list default="true" id="83a8bd05-1e28-4d2d-b5be-fa5a7c374ffc" name="Failed commit: Default" comment="zz&#10;&#10;zzz&#10;  新学习">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/liaoxuefeng/OO/TypeAndAttr.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/liaoxuefeng/OO/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/liaoxuefeng/OO/classAndInstance.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/liaoxuefeng/OO/classAndInstance1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/liaoxuefeng/OO/classAttr.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/liaoxuefeng/OO/subclass/Animal.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/liaoxuefeng/OO/subclass/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/liaoxuefeng/OOPH/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/liaoxuefeng/OOPH/defineClass.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/liaoxuefeng/OOPH/enumclass.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/liaoxuefeng/OOPH/metaclass.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/liaoxuefeng/OOPH/property.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/liaoxuefeng/OOPH/property1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/liaoxuefeng/OOPH/property2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/liaoxuefeng/OOPH/slots.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/liaoxuefeng/OOPH/slots1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/liaoxuefeng/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/liaoxuefeng/basic/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/liaoxuefeng/basic/dict.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/liaoxuefeng/basic/set.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/liaoxuefeng/errorAndDebugAndTest/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/liaoxuefeng/errorAndDebugAndTest/error.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/liaoxuefeng/errorAndDebugAndTest/error1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/liaoxuefeng/function/function_invoke.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/liaoxuefeng/function/function_param.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/liaoxuefeng/function/递归.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/liaoxuefeng/function_programe/Decorator.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/liaoxuefeng/function_programe/Decorator1.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/liaoxuefeng/function_programe/Partial_function.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/liaoxuefeng/function_programe/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/liaoxuefeng/highFeture/Iteration.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/liaoxuefeng/highFeture/List_Comprehensions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/liaoxuefeng/highFeture/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/liaoxuefeng/highFeture/generator.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/liaoxuefeng/highFeture/iterator.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/liaoxuefeng/highFeture/qiepian_slice.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/liaoxuefeng/module/Referencemodule.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/liaoxuefeng/module/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/com/liaoxuefeng/module/use_module.py" />
+    <list default="true" id="83a8bd05-1e28-4d2d-b5be-fa5a7c374ffc" name="Failed commit: Default" comment="zz&#10;&#10;zzz&#10;  新学习知识">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/com/learningpython/eigth/List1.py" afterPath="$PROJECT_DIR$/com/learningpython/eigth/List1.py" />
     </list>
     <ignored path="TestPython.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -127,8 +87,8 @@
       <file leaf-file-name="error1.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/com/liaoxuefeng/errorAndDebugAndTest/error1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45132744">
-              <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.27175844">
+              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -218,6 +178,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="709" />
@@ -614,7 +575,13 @@
       <option name="project" value="LOCAL" />
       <updated>1516976469603</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="zz&#10;&#10;zzz&#10;  新学习知识">
+      <created>1525704940137</created>
+      <option name="number" value="00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1525704940137</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -659,11 +626,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="709" extended-state="0" />
-    <editor active="false" />
+    <frame x="-1" y="23" width="1280" height="709" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17871326" sideWeight="0.5197889" order="0" side_tool="true" content_ui="tabs" x="155" y="289" width="315" height="402" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17871326" sideWeight="0.5197889" order="0" side_tool="true" content_ui="tabs" x="155" y="289" width="315" height="402" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31228474" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.323185" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30456853" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -671,7 +639,6 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277592" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292978" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31228474" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39966556" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -697,7 +664,8 @@
     <MESSAGE value="ss" />
     <MESSAGE value="zz&#10;&#10;zzz&#10;" />
     <MESSAGE value="zz&#10;&#10;zzz&#10;  新学习" />
-    <option name="LAST_COMMIT_MESSAGE" value="zz&#10;&#10;zzz&#10;  新学习" />
+    <MESSAGE value="zz&#10;&#10;zzz&#10;  新学习知识" />
+    <option name="LAST_COMMIT_MESSAGE" value="zz&#10;&#10;zzz&#10;  新学习知识" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1079,8 +1047,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/com/liaoxuefeng/errorAndDebugAndTest/error1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45132744">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.27175844">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
           <folding />
         </state>
       </provider>
